@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_a87a3db4e184646a7688ac0f533c34446462f284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.recyclerview/recyclerview-animators/0.3.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="940a4e6d5d64deee58c07673cb65a4557e1637af">
+        <dex dex="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.gabrielemariotti.recyclerview-recyclerview-animators-0.3.0-SNAPSHOT_bc5970fd1189e5799336d41dc6f7a75cc2866d84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fc9b62a1d75b5a6a0a73a99f3ad18c991d32f613/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ceaa4dc9fa4616b213da4feacf8436e506f79aa3">
+        <dex dex="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a76298303516f7282023c6c42d713f29a9cd16c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_a87a3db4e184646a7688ac0f533c34446462f284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.recyclerview/recyclerview-animators/0.3.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="940a4e6d5d64deee58c07673cb65a4557e1637af">
+        <dex dex="/Users/pranjularora/Documents/Pranjul/Android/Final project/Fitness 7.0/Fitness 6.0/Fitness final v1/Fitness1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.gabrielemariotti.recyclerview-recyclerview-animators-0.3.0-SNAPSHOT_bc5970fd1189e5799336d41dc6f7a75cc2866d84/classes.dex" />
+    </item>
+
+</items>
